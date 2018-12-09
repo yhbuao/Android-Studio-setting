@@ -1,0 +1,74 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="CHANNEL" />
+      <item value="CHANNEL TYPE" />
+      <item value="上" />
+      <item value="Data" />
+      <item value="Date" />
+      <item value="渠道" />
+      <item value="CHANNE" />
+      <item value="channe type" />
+      <item value="未选中" />
+      <item value="价格" />
+      <item value="规格" />
+      <item value="尺寸" />
+      <item value="规范" />
+      <item value="提交" />
+      <item value="Me and some of my colleagues have faced the same issue on AS 3.1.2, but a simple Sync didn't help us. For us the solution was a bit different:" />
+      <item value="HTTP Basic: Access denied" />
+      <item value="const" />
+      <item value="TEMPLATE" />
+      <item value="DISPLAY" />
+      <item value="合并" />
+      <item value="绿" />
+      <item value="源码" />
+      <item value="Anim" />
+      <item value="Cart" />
+      <item value="父类" />
+      <item value="count" />
+      <item value="Water" />
+      <item value="&#10;    java.lang.Runtime Exception: " />
+      <item value="Space" />
+      <item value="super" />
+      <item value="Reduce" />
+      <item value="internal" />
+      <item value="reduce" />
+      <item value="减" />
+      <item value="增" />
+      <item value="增减" />
+      <item value="deny" />
+      <item value="allow" />
+      <item value="chip" />
+      <item value="Amount" />
+      <item value="Spannable" />
+      <item value="发现" />
+      <item value="linear" />
+      <item value="angle" />
+      <item value="usages" />
+      <item value="电子书" />
+      <item value="视频" />
+      <item value="开发" />
+      <item value="click" />
+      <item value="当前" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="125" />
+        <entry key="FRENCH" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="0004a1751038fa14" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
