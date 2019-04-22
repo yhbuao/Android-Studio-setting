@@ -22,10 +22,6 @@
           <option name="url" value="https://github.com/yhbuao/YuDemo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.int.ybm100.com" />
-          <option name="userName" value="yuhaibo" />
-        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\work\GitHub" />
